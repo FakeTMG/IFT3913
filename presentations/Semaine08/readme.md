@@ -23,7 +23,7 @@
 - Présentation: 
 
 [concept] analyse statique pour la réduction des dépendances
-- Nom:
+- Nom: Mohamed Saidana
 - Présentation: 
 
 [concept] Dependency hell
